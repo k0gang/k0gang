@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**k0gang/k0gang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 김경현
+
+
+
+---
+
+### 교육과정 수료
+* 의료영상 AI API연동 프로젝트 기반 자바(java)풀스택 개발자 과정 수료 (2023.12.27 ~ 2024.07.15)
+
+
+---
+
+### 참여 프로젝트
+1. [의료용 디지털 영상 DICOM 활용 앱 뷰어 프로젝트](about:blank)
+2. [프로젝트명2](주소)
+3. [프로젝트명3](깃헙리포지토리주소)
+4. [프로젝트명4](배포링크)
